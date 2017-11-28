@@ -1,10 +1,9 @@
 {
   "name": "autocomplete-jsdoc",
   "main": "./lib/autocomplete-jsdoc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Offers suggestions for JSDoc keywords.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/savetheclocktower/atom-autocomplete-jsdoc",
   "license": "MIT",
   "engines": {
@@ -17,6 +16,5 @@
       }
     }
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
