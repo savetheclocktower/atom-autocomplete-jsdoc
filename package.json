@@ -1,0 +1,22 @@
+{
+  "name": "autocomplete-jsdoc",
+  "main": "./lib/autocomplete-jsdoc",
+  "version": "0.0.0",
+  "description": "Offers suggestions for JSDoc keywords.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/savetheclocktower/autocomplete-jsdoc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}
