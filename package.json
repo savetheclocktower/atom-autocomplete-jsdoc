@@ -5,7 +5,7 @@
   "description": "Offers suggestions for JSDoc keywords.",
   "keywords": [
   ],
-  "repository": "https://github.com/savetheclocktower/autocomplete-jsdoc",
+  "repository": "https://github.com/savetheclocktower/atom-autocomplete-jsdoc",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
