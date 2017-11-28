@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-jsdoc",
   "main": "./lib/autocomplete-jsdoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Offers suggestions for JSDoc keywords.",
   "keywords": [
     "autocomplete",
